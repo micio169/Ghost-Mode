@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhostMode", "GhostMode\GhostMode.csproj", "{54914A1D-8AD6-4612-B9D9-7BD32284F0C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54914A1D-8AD6-4612-B9D9-7BD32284F0C7}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{54914A1D-8AD6-4612-B9D9-7BD32284F0C7}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{54914A1D-8AD6-4612-B9D9-7BD32284F0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54914A1D-8AD6-4612-B9D9-7BD32284F0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB615414-84ED-419E-9396-5E221CEB0528}
+	EndGlobalSection
+EndGlobal
