@@ -10,7 +10,8 @@
 - **실시간 감지:** 롤 클라이언트 실행 여부를 하단 바에서 실시간 확인
 
 ## 🚀 시작하기
-1. [Releases](https://github.com/micio169/Ghost-Mode/releases/tag/v1.0.0) 페이지에서 `GhostMode_Setup.exe`를 다운로드합니다.
+1. [Releases](https://github.com/micio169/Ghost-Mode/releases/tag/v1.0.0) 페이지에서 `GhostMode_Setup_v1.0.0.exe
+`를 다운로드합니다.
 2. 프로그램을 **관리자 권한**으로 실행합니다.
 3. `CHANGE` 버튼을 눌러 모드를 전환하세요. (반영까지 약 20~40초 소요)
 
