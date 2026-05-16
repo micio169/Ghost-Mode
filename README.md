@@ -13,7 +13,7 @@
 - **라이엇 게임 지원:** 롤에서 사용가능 / 발로란트에서 사용가능 (간단한 클릭으로 게임 변경가능)
 
 ## 🚀 시작하기
-1. [Releases](https://github.com/micio169/Ghost-Mode/releases/tag/v1.0.0) 페이지에서 `GhostMode_Setup_v1.0.0.exe
+1. [Releases](https://github.com/micio169/Ghost-Mode/releases/tag/v1.1.0) 페이지에서 `GhostMode_Setup_v1.1.0.exe
 `를 다운로드합니다.
 2. 프로그램을 **관리자 권한**으로 실행합니다.
 3. 버튼을 눌러 모드를 전환하세요. (반영까지 약 10~30초 소요)
